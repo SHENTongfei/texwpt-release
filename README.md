@@ -1,6 +1,6 @@
 # TEXWPT — Transferable Estimation of X-Prototype Wireless Power Transfer
 
-Companion release for the manuscript **"Transferable Estimation of X-Prototype Wireless Power Transfer via Physics-Anchored Gated Transformers"** (IEEE Transactions on Artificial Intelligence, under preparation).
+Companion release for the manuscript **"Physics-Anchored Gated Transformers Recover the Physical Drivers of Rectified Voltage for Transferable, Cross-Prototype Wireless Power Transfer"** (model: TEXWPT, IEEE Transactions on Artificial Intelligence, under preparation).
 
 TEXWPT is a physics-anchored gated transformer that predicts the rectified output voltage of a wireless power transfer (WPT) front-end from physical and operational inputs, and transfers to unseen prototypes and an independent laboratory platform without retraining.
 
