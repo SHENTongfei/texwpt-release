@@ -1,0 +1,6 @@
+# G1 v0 report (GPU)
+dev=cuda
+Leg TI VDC seed42: MAE=0.0216±0.0018  (RF 靶=0.0536)
+Leg EX 81785->81813 seed42: MAE=0.3676 V  (RF 靶=0.1989, TabPFN=0.2804, 纯锚=0.4051)
+Leg TI VDC seed2024: MAE=0.0230±0.0030  (RF 靶=0.0536)
+Leg EX 81785->81813 seed2024: MAE=0.1827 V  (RF 靶=0.1989, TabPFN=0.2804, 纯锚=0.4051)

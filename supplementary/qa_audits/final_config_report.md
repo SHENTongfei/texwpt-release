@@ -1,0 +1,4 @@
+# FINAL (FULL+I7 gate+I9 R_eff+I8 closure) R_EST=7.70k dev=cuda
+
+FINAL TI: 0.0443±0.0043   (TabPFN 0.0196 / SVR 0.0294 / I7 0.0357)
+FINAL EX: 0.1148±0.0195   (I7 0.1173 / anchor 0.1242 / GP 0.1992 / TabPFN 0.2444)

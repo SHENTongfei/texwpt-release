@@ -1,0 +1,7 @@
+﻿arm,ex1_mae_v,inpool_mae_v
+TEXWPT (I7, main),0.086,0.033
+complete configuration,0.091,0.041
+no physics-feature arm,0.086,0.052
+no anchor,0.104,0.049
+no gate,0.313,0.063
+no synthetic arm,0.301,0.045

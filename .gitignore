@@ -1,0 +1,25 @@
+# local artifacts
+__pycache__/
+*.pyc
+*.log
+*.aux
+*.bbl
+*.blg
+*.out
+*.pdf
+
+# weights and large data (not part of the release)
+models/
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+
+# raw source dumps (public sources are re-downloadable; see README)
+data/raw/
+data/extracted/
+
+# secrets
+.env
+*_token*
+GH_TOKEN*

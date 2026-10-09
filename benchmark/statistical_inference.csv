@@ -1,0 +1,6 @@
+﻿reference,delta_mae_v,ci95_v,per_seed_success
+TabPFN-v2,-0.128,[-0.176,-0.050],7/8
+Support-vector,-0.110,[-0.157,-0.031],7/8
+CatBoost,-0.117,[-0.163,-0.037],7/8
+XGBoost,-0.124,[-0.171,-0.046],7/8
+Kolmogorov-Arnold,-0.398,dominant,8/8

@@ -1,0 +1,9 @@
+﻿method,ex1_mae_v,inpool_mae_v,note
+TEXWPT (I7, main),0.116,0.033,lowest cross-prototype
+TEXWPT (Final),0.117,0.044,complete configuration
+TabPFN-v2,0.244,0.019,leads in-pool leg
+FT-Transformer,0.203,0.166,
+Gradient boost (LightGBM),0.190,0.099,
+Random forest,0.252,0.044,
+Ridge,0.266,0.100,
+Other references,,,full table in supplement
